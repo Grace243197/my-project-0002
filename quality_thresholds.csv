@@ -1,0 +1,3 @@
+threshold_name,C_mg_L,action_guidance
+early_warning,0.1,Start enhanced monitoring & forecasting; prepare to switch to emergency storage.
+mandatory_stop_intake,0.3,Stop river intake immediately; use emergency storage and alternative supply.
